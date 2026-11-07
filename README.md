@@ -16,7 +16,7 @@ ESP32 四足机器狗 | PlatformIO 项目
 - 舵机驱动：PCA9685
 - 姿态传感器：MPU6050
 - 音频模块：I2S DAC
-- 舵机：8 × SG90
+- 舵机：8 × MG90S
 
 ## 🧰 开发环境
 - VSCode + PlatformIO
