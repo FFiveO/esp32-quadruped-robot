@@ -30,7 +30,7 @@ ESP32 四足机器狗 | PlatformIO 项目
 ├── platformio.ini PlatformIO 编译配置
 
 ## 📹 演示视频
-> 后续把B站演示链接贴在这里
+https://www.bilibili.com/video/BV1bPW36kEZu/?spm_id_from=333.1387.homepage.video_card.click&vd_source=596203ae59e7a8fc7b18f911bf7f9886
 
 ## 📄 License
 MIT
